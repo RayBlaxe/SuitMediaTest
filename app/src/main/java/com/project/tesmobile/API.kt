@@ -25,7 +25,7 @@ class API {
             )
             list.add(
                 ListObjKM(
-                    "Agus",
+                    "Agus ",
                     "Urip",
                     "https://pcr.ac.id/assets/images/pegawai/AUA20190718114257.jpg",
                     "urip@gmail.com",
