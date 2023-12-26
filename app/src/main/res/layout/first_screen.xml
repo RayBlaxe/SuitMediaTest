@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgsuit"
+    android:gravity="center">
+
+    <ImageView android:id="@+id/pp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_photo"
+        />
+
+    <EditText
+        android:id="@+id/input_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+
+        android:textColor="@color/textInputColor"
+        android:background="@drawable/button"
+        android:backgroundTint="@color/white"
+        android:height="40dp"
+        android:width="310dp"
+        android:paddingLeft="20dp"
+        android:layout_marginTop="60dp"
+        />
+    <EditText
+        android:id="@+id/input_palindrome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Palindrome"
+        android:textColor="@color/textInputColor"
+        android:background="@drawable/button"
+        android:backgroundTint="@color/white"
+        android:height="40dp"
+        android:width="310dp"
+        android:paddingLeft="20dp"
+        android:layout_marginTop="22dp"
+        />
+
+    <Button
+        android:id="@+id/btn_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp"
+        android:width="310dp"
+        android:height="41dp"
+        android:background="@drawable/button"
+        android:text="CHECK"
+
+        />
+
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="310dp"
+        android:height="41dp"
+        android:background="@drawable/button"
+        android:text="NEXT"
+        android:layout_marginTop="15dp"
+
+        />
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tesMobile</string>
+    <string name="sec_screen">Second Screen</string>
+    <string name="back_ic">Back Icon</string>
+    <string name="greeting">Welcome</string>
+    <string name="username">John Doe</string>
+    <string name="selected_un">Selected User Name</string>
+    <string name="select_user">Choose a User</string>
+</resources>

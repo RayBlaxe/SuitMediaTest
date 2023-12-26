@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font
+        android:font="@font/poppins_regular"
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:fontVariationSettings="@font/poppins_regular" />
+    <font
+        android:font="@font/poppins_medium"
+        android:fontStyle="normal"
+        android:fontWeight="500"
+        android:fontVariationSettings="@font/poppins_medium" />
+    <font
+        android:font="@font/poppins_semibold"
+        android:fontStyle="normal"
+        android:fontWeight="600"
+        android:fontVariationSettings="@font/poppins_semibold" />
+    <font
+        android:font="@font/poppins_bold"
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        android:fontVariationSettings="@font/poppins_bold" />
+    <font
+        android:font="@font/poppins_light"
+        android:fontStyle="normal"
+        android:fontWeight="300"
+        android:fontVariationSettings="@font/poppins_light" />
+    <font
+        android:font="@font/poppins_thin"
+        android:fontStyle="normal"
+        android:fontWeight="100"
+        android:fontVariationSettings="@font/poppins_thin" />
+
+
+    <font
+        android:font="@font/poppins_black"
+        android:fontStyle="normal"
+        android:fontWeight="900"
+        android:fontVariationSettings="@font/poppins_black" />
+    <font
+        android:font="@font/poppins_thinitalic"
+        android:fontStyle="italic"
+        android:fontWeight="100"
+        android:fontVariationSettings="@font/poppins_thinitalic" />
+    <font
+        android:font="@font/poppins_blackitalic"
+        android:fontStyle="italic"
+        android:fontWeight="900"
+        android:fontVariationSettings="@font/poppins_blackitalic" />
+    <font
+        android:font="@font/poppins_bolditalic"
+        android:fontStyle="italic"
+        android:fontWeight="700"
+        android:fontVariationSettings="@font/poppins_bolditalic" />
+
+
+
+
+</font-family>
